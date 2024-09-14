@@ -1,4 +1,4 @@
-## Perfil públic de l'organització 2DAM-202324-PROJECTE
+## Perfil públic de l'organització 2DAM-202425-PROJECTE
 * Sol·liciteu al professor que us afegeixi a l'organització proporcionant el vostre usuari GitHub.
 
 <!--
